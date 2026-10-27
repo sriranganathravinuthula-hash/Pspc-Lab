@@ -22,7 +22,7 @@ int main()
 }
 
 if ((r1==r2)&&(c1==c2)) {
-printf("addition of matrix is posible\n");
+printf("addition of matrix is possible\n");
 r3=r1;
 c3=c1;
     int	c[r3][c3];
